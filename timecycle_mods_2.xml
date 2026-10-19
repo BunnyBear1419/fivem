@@ -2,7 +2,6 @@
 
 <timecycle_modifier_data version="1.000000">
 	<modifier name="polluted" numMods="0" userFlags="0" />
-	</modifier>
 	<modifier name="nextgen" numMods="3" userFlags="0">
 	</modifier>
 	<modifier name="lightning" numMods="15" userFlags="0">
